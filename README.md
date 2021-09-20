@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans! 
+
+Im tom i wanna learn languages that's why im here
